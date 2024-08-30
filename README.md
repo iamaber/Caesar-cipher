@@ -1,1 +1,1 @@
-This a runby on rails project
+Some basic code for Ruby.
